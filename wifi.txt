@@ -1,0 +1,20 @@
+SSID: Guild_Hall
+Password: kernel126
+SSID: IIC WIFI
+Password: BrIst@lwIfI
+SSID: IT Academics
+Password: Generate$5
+SSID: Quarter1
+Password: Notebook@1997
+SSID: Tamor
+Password: kernel129
+SSID: RoyalAlbert_Hall
+Password: kernel124
+SSID: Aakash
+Password: aakash@1234
+SSID: Barun
+Password: kernel128
+SSID: Arun
+Password: kernel127
+SSID: Monty_Don@ClassicTech
+Password: bishwas@123
